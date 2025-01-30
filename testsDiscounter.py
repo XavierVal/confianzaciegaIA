@@ -1,8 +1,8 @@
 import unittest
 
 #Comentando o descomentando la linea 4 o 5 se puede probar el código de discounterIA o discounterHuman
-from discounterIA import calculate_discount, apply_discount
-#from discounterHuman import calculate_discount, apply_discount
+#from discounterIA import calculate_discount, apply_discount
+from discounterHuman import calculate_discount, apply_discount
 
 
 class TestCalculateDiscount(unittest.TestCase):

@@ -24,8 +24,7 @@ def apply_discount(cart_items: list):
     :return:
     '''
     total = 0
-    total = sum(map(lambda x: x['price']-calculate_discount(price=x['price'], discount_percentage=x['discount']), cart_items))
-    print(f"La suma total de los productos despues de su descuento es: {total}")
+    return sum(map(lambda x: x['price']-calculate_discount(price=x['price'], discount_percentage=x['discount']), cart_items))
 
 
 if __name__ == "__main__":
