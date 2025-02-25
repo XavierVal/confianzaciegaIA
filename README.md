@@ -1,6 +1,10 @@
 # IAvsHuman
  IA exercise vs a Human exercise
 
+Codigo relacionado con el artículo originalmente publicado en el blog de Navegantes de la tecnología: 
+
+ [De cuando la IA sugiere y los humanos no cuestionan](https://telefonicatech.com/blog/una-historia-de-programadores-humanos-ia-y-errores-evitables/)
+
 ## Esto es un sencillo ejemplo de un mismo ejercicio realizado con la ayuda de la IA de Copilot vs el mismo ejercicio realizado por un developer humano sin asistencia.
 
 ## En este caso, se trata de un ejercicio de programación en Python.
